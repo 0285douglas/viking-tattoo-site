@@ -3,8 +3,9 @@
 
 ![Badge Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen) ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
-### Descrição
+## Descrição
 Desenvolvimento do site do Estúdio de tatuagem Viking Tattoo em formato de Landing Page
+
 
 
 
