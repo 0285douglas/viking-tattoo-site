@@ -6,6 +6,7 @@
 ## Descrição
 Desenvolvimento do site do Estúdio de tatuagem Viking Tattoo em formato de Landing Page
 
+<img src="./img/inicio landing page.JPG" alt="pagina inicial" width="800" />
 
 
 
