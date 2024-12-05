@@ -135,14 +135,203 @@ section {
 .div-texto h2 {
     padding: 50px 80px 50px 150px;
     align-items: top;
-    font-size: 30px;
-
+    font-size: 33px;
+    font-style: italic;
 }
 
 .div-texto p {
     padding: 0px 150px 20px 150px;
-    text-align: justify line-height: 1.6;
     text-align: justify;
+    line-height: 1.6;
     line-height: 1.3;
     font-size: 17px;
+    font-style: italic;
+}
+
+.equipe {
+    padding: 130px 200px 0px 200px;
+    background-attachment: fixed;
+    background-image: url("../img/sl_0210121_40570_29.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+
+.div-quadro-equipe h2 {
+    padding: 20px;
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+    font-family: "Tourney", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.apresentacao-equipe {
+    border: 2px solid #ffffff10;
+    display: flex;
+    position: relative;
+    padding: 50px;
+    border-bottom: 2px solid #ff004c;
+    border-right: 2px solid #ff004c;
+    border-radius: 80px 0;
+    justify-content: space-between;
+}
+
+.apresentacao-equipe .div-um img {
+    height: auto;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.apresentacao-equipe .div-um {
+    border: 2px solid #ff004c;
+    height: 450px;
+    background: #212121;
+    color: white;
+    border: 2px solid #ffffff10;
+    border-bottom: 2px solid #ff004c;
+    border-right: 2px solid #ff004c;
+    border-radius: 80px 0;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    padding: 40px;
+}
+
+
+.apresentacao-equipe .div-um h1 {
+    color: #ff004c;
+    font-size: 25px;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.apresentacao-equipe .div-um p {
+    text-align: justify;
+    line-height: 1.6;
+    line-height: 1.3;
+    font-size: 17px;
+    font-style: italic;
+    word-break: break-word;
+    padding: 10px;
+}
+
+
+.apresentacao-equipe .div-um a {
+    text-decoration: none;
+    color: #ff004c;
+}
+
+/* -------------------- */
+
+
+.apresentacao-equipe .div-dois img {
+    height: auto;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.apresentacao-equipe .div-dois {
+    border: 2px solid #ff004c;
+    height: 450px;
+    background: #212121;
+    color: white;
+    border: 2px solid #ffffff10;
+    border-bottom: 2px solid #ff004c;
+    border-right: 2px solid #ff004c;
+    border-radius: 80px 0;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    padding: 40px;
+}
+
+
+.apresentacao-equipe .div-dois h1 {
+    color: #ff004c;
+    font-size: 25px;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.apresentacao-equipe .div-dois p {
+    text-align: justify;
+    line-height: 1.6;
+    line-height: 1.3;
+    font-size: 17px;
+    font-style: italic;
+    word-break: break-word;
+    padding: 10px;
+}
+
+
+.apresentacao-equipe .div-dois a {
+    text-decoration: none;
+    color: #ff004c;
+}
+
+/* -------------------- */
+
+
+.apresentacao-equipe .div-tres img {
+    height: auto;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.apresentacao-equipe .div-tres {
+    border: 2px solid #ff004c;
+    height: 450px;
+    background: #212121;
+    color: white;
+    border: 2px solid #ffffff10;
+    border-bottom: 2px solid #ff004c;
+    border-right: 2px solid #ff004c;
+    border-radius: 80px 0;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    padding: 40px;
+}
+
+
+.apresentacao-equipe .div-tres h1 {
+    color: #ff004c;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.apresentacao-equipe .div-tres p {
+    text-align: justify;
+    line-height: 1.6;
+    line-height: 1.3;
+    font-size: 17px;
+    font-style: italic;
+    word-break: break-word;
+    padding: 10px;
+}
+
+
+.apresentacao-equipe .div-tres a {
+    text-decoration: none;
+    color: #ff004c;
 }
