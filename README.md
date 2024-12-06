@@ -1,12 +1,15 @@
 
 # 🚀 Projeto Cotação de ações
 
-![Badge Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen) ![Licença](https://img.shields.io/badge/licença-MIT-blue)
+![Static Badge](https://img.shields.io/badge/Status-Completo-Completo?color=green) ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
 ## Descrição
-Desenvolvimento do site do Estúdio de tatuagem Viking Tattoo em formato de Landing Page
+Desenvolvimento do site da Viking Tattoo Studio em formato de Landing Page. 
 
-<img src="./img/inicio landing page.JPG" alt="pagina inicial" width="800" />
+<img src="./img/page-1.JPG" alt="pagina inicial" width="800" />
+<img src="./img/page-2.JPG" alt="estudio" width="800" />
+<img src="./img/page-3.JPG" alt="equipe" width="800" />
+<img src="./img/page-4.JPG" alt="localizacao" width="800" />
 
 
 
@@ -16,8 +19,7 @@ Desenvolvimento do site do Estúdio de tatuagem Viking Tattoo em formato de Land
 
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
-- [Instalação](#instalacao)
-- [Como Usar](#como-usar)
+- [Instalação e Utilização](#como-usar)
 - [Contribuições](#contribuicoes)
 - [Licença](#licenca)
 - [Contato](#contato)
@@ -26,31 +28,24 @@ Desenvolvimento do site do Estúdio de tatuagem Viking Tattoo em formato de Land
 
 ## ✅ Funcionalidades <a name="funcionalidades"></a>
 
--  Funcionalidade 1 - Apresentação do Estúdio para os clientes 
--  Funcionalidade 2 - Fácil entendimento do segmento e do ambiente
+-  Funcionalidade 1 - Apresentação do ambiente e dos profissionais para os clientes 
+-  Funcionalidade 2 - Facilidade para entrar em contato com a empresa
 -  Funcionalidade 3 - Praticidade ao procurar os serviços e os profissionais disponíveis
--  Funcionalidade 4 - Galeria disponível para consulta dos serviços prestados
+-  Funcionalidade 4 - Facilidade em localizar a empresa
 
 ---
 
 ## 🛠️ Tecnologias <a name="tecnologias"></a>
 
-- **Linguagem**: HTML, CSS, Javascript
-- **Framework**: -
-- **Banco de Dados**: -
-- **Outras Tecnologias**: -
+- **Linguagem**: HTML, CSS
+
 
 ---
 
-## ⚙️ Instalação <a name="instalacao"></a>
+## 🚀 Instalação e Utilização<a name="como-usar"></a>
 
-No momento ainda está indisponível por estar em desenvolvimento.
-
----
-
-## 🚀 Como Usar <a name="como-usar"></a>
-
-
+- clone o repositório
+- abra a pasta do repositório, localize o arquivo "index.html" e abra em seu navegador
 
 ---
 
