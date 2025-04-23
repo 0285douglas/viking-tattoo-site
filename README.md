@@ -1,5 +1,5 @@
 
-# 🚀 Projeto Cotação de ações
+# 🚀 Projeto Site de Estúdio de Tatuagem
 
 ![Static Badge](https://img.shields.io/badge/Status-Completo-Completo?color=green) ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
